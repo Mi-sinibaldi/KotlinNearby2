@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinNearby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="market">Market</string>
+    <string name="school">School</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="hospital">Hospital</string>
+</resources>
