@@ -5,4 +5,10 @@
     <string name="school">School</string>
     <string name="restaurant">Restaurant</string>
     <string name="hospital">Hospital</string>
+    <string name="title_activity_view_directions">Map</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_address">Place Address</string>
+    <string name="open_now">Open Now:</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="view_directions">View Directions</string>
 </resources>
